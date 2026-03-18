@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, welcome to my profile! 👋</h2>
+<img src="./chat.svg" alt="Chat Animation" />
 
 <h3 align="center">Here is my Competitive Programming Journey </h3>
 
