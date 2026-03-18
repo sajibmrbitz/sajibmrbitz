@@ -1,16 +1,17 @@
-## Hi there 👋
+<h2 align="center">Hi there, welcome to my profile! 👋</h2>
 
-<!--
-**sajibmrbitz/sajibmrbitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Here is my Competitive Programming Journey 🚀</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mrsajib91?ext=activity&theme=dark" alt="LeetCode Stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sajib2405129&theme=dark" alt="Codeforces Stats" />
+</p>
+
+<h3 align="center">My Top Languages 💻</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibmrbitz&layout=compact&theme=dark" alt="Top Languages" />
+</p>
