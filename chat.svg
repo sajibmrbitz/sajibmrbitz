@@ -3,30 +3,29 @@
     .chat-container {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
       font-size: 18px;
-      fill: #24292e;
+      fill: #c9d1d9;
     }
     .bubble {
       opacity: 0;
       animation: fadeIn 0.3s ease-in-out forwards;
     }
     .bubble rect {
-      fill: #eaebed;
+      fill: #2d333b;
       rx: 20px;
     }
     .typing-text {
       clip-path: inset(0 100% 0 0);
-      animation: typeText 1s steps(40, end) forwards;
     }
     
-    /* Animation Delays */
+    /* Animation Delays & Timing */
     .b1 { animation-delay: 0.5s; }
-    .t1 { animation-delay: 0.8s; }
+    .t1 { animation: typeText 0.8s steps(15, end) forwards; animation-delay: 0.8s; }
     
-    .b2 { animation-delay: 2.2s; }
-    .t2 { animation-delay: 2.5s; }
+    .b2 { animation-delay: 2.0s; }
+    .t2 { animation: typeText 1.5s steps(52, end) forwards; animation-delay: 2.3s; }
     
-    .b3 { animation-delay: 3.9s; }
-    .t3 { animation-delay: 4.2s; }
+    .b3 { animation-delay: 4.2s; }
+    .t3 { animation: typeText 1.8s steps(60, end) forwards; animation-delay: 4.5s; }
 
     @keyframes fadeIn {
       to { opacity: 1; }
@@ -38,17 +37,17 @@
 
   <g class="chat-container">
     <g class="bubble b1" transform="translate(20, 20)">
-      <rect width="180" height="46" />
+      <rect width="140" height="46" />
       <text class="typing-text t1" x="25" y="30">Hi, I'm Sajib </text>
     </g>
 
     <g class="bubble b2" transform="translate(20, 80)">
-      <rect width="460" height="46" />
-      <text class="typing-text t2" x="25" y="30">CS Student , BUET | Passionate about Algos and System Designs</text>
+      <rect width="490" height="46" />
+      <text class="typing-text t2" x="25" y="30">CS Ugrad | Passionate about Algos and System Designs</text>
     </g>
 
     <g class="bubble b3" transform="translate(20, 140)">
-      <rect width="360" height="46" />
+      <rect width="550" height="46" />
       <text class="typing-text t3" x="25" y="30">Currently building Beginner projects for exploration and fun</text>
     </g>
   </g>
