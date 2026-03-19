@@ -17,7 +17,6 @@
       clip-path: inset(0 100% 0 0);
     }
     
-    /* Animation Delays & Timing */
     .b1 { animation-delay: 0.5s; }
     .t1 { animation: typeText 0.8s steps(15, end) forwards; animation-delay: 0.8s; }
     
@@ -38,7 +37,7 @@
   <g class="chat-container">
     <g class="bubble b1" transform="translate(20, 20)">
       <rect width="140" height="46" />
-      <text class="typing-text t1" x="25" y="30">Hi, I'm Sajib </text>
+      <text class="typing-text t1" x="25" y="30">Hi, I'm Sajib</text>
     </g>
 
     <g class="bubble b2" transform="translate(20, 80)">
@@ -52,3 +51,4 @@
     </g>
   </g>
 </svg>
+
