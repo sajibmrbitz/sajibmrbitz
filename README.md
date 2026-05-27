@@ -14,13 +14,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajibmrbitz&theme=dark&hide_border=true&border_radius=10" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sajibmrbitz&theme=dark&show_icons=true&hide_border=true&border_radius=10" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajibmrbitz&theme=dark&show_icons=true&hide_border=true&border_radius=10&v=2" alt="readme stats" />
 </p>
 
 <h3 align="center">My Top Languages </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibmrbitz&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibmrbitz&layout=compact&theme=dark&hide_border=true&border_radius=10&v=2" alt="Top Languages" />
 </p>
 
 <div align="center">
