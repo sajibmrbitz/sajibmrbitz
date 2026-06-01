@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajibmrbitz&theme=dark&hide_border=true&border_radius=10&v=1" alt="streak stats"/>
-  <img src="https://github-readme-stats-jet-nu-16.vercel.app/api?username=sajibmrbitz&theme=dark&show_icons=true&hide_border=true&border_radius=10&v=1" alt="readme stats" />
+  <img src="https://github-readme-stats-jet-nu-16.vercel.app/api?username=sajibmrbitz&theme=dark&show_icons=true&count_private=true&hide_border=true&border_radius=10&v=2" alt="readme stats" />
 </p>
 
 <h3 align="center">My Top Languages </h3>
